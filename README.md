@@ -1,1 +1,1 @@
-Write a Java program to sum values of an array.
+1. Write a Java program to sum values of an array.
