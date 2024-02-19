@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Main {
+public class Program 2 {
 
     public static void main(String[] args) {
         System.out.println("Write a Java program to find the index of an array element.");
