@@ -1,7 +1,7 @@
 //Get the bytes used by the 2D array.
 import java.util.*;
 
-public class Main {
+public class Program3 {
 
     public static void main(String args[]) {
         int element;
